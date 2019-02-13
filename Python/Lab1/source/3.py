@@ -19,5 +19,7 @@ for x in w_list:
     else:
         uncommon.append(x)
 # printing results
+print("Students who are in python Class:",py_list)
+print("Students who are in Web Class:",w-list)
 print("common students:", common)
 print("uncommon students:",uncommon)
