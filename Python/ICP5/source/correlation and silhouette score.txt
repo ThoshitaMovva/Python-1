@@ -1,0 +1,22 @@
+
+
+
+Silhouette Score:
+
+Silhouette Score refers to a method of interpretation and validation of consistency within clusters of data.
+The silhouette value is a measure of how similar an object is to its own cluster (cohesion) compared to other clusters.
+The silhouette ranges from -1 to +1, where a high value indicates that the object is well matched to its own cluster and poorly matched to neighboring clusters. 
+If most objects have a high value, then the clustering configuration is appropriate.
+Here in our program cluster 2 has more silhouette score of 0.559 when compared to the score of other clusters. 
+
+
+Correlation:
+
+The statistical relationship between two variables is referred to as their correlation.
+A correlation could be positive, meaning both variables move in the same direction, or negative, meaning that when one variable’s value increases, the other variables’ values decrease.
+Correlation values range between -1 and 1.
+The larger the magnitude (closer to 1 or -1), the stronger the correlation.
+Here in our program we got correlation of 0.54 between survived and sex columns in train dataset.
+
+
+
